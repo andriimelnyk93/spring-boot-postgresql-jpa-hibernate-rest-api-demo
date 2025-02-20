@@ -1,11 +1,5 @@
 ## Spring Boot, PostgreSQL, JPA, Hibernate REST API Demo
 
-## Tutorial
-
-Check out the complete tutorial on the CalliCoder blog -
-
-[Spring Boot, PostgreSQL, JPA, Hibernate RESTful CRUD API Example](https://www.callicoder.com/spring-boot-jpa-hibernate-postgresql-restful-crud-api-example/)
-
 ## Steps to Setup
 
 **1. Clone the repository**
